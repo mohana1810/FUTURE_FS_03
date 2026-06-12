@@ -50,4 +50,3 @@ src/
 
 **Mohana Jarajapu**
 
-Built as a Full Stack Web Development project and learning portfolio.
