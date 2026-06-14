@@ -45,7 +45,8 @@ export default function Footer() {
           <h3 className="footer-title">Store Location</h3>
           <div className="footer-contact-item">
             <MapPin size={18} />
-            <span>123 Bark Avenue, Petville, PV 56001</span>
+            <p>Visakhapatnam, Andhra Pradesh, India</p>
+
           </div>
           <div className="footer-contact-item">
             <Phone size={18} />
@@ -53,7 +54,7 @@ export default function Footer() {
           </div>
           <div className="footer-contact-item">
             <Mail size={18} />
-            <span>support@happytailspetstore.com</span>
+            <span>anier6180811@gmail.com</span>
           </div>
           <div className="footer-contact-item">
             <Clock size={18} />
